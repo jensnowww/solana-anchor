@@ -1,5 +1,5 @@
 {
-  "name": "@project-serum/anchor",
+  "name": "@jenvillaganas/anchor",
   "version": "0.15.0",
   "description": "Anchor client",
   "main": "dist/esm/index.js",
