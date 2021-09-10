@@ -2,7 +2,7 @@
   "name": "@project-serum/anchor",
   "version": "0.15.0",
   "description": "Anchor client",
-  "main": "dist/cjs/index.js",
+  "main": "dist/esm/index.js",
   "module": "dist/esm/index.js",
   "license": "(MIT OR Apache-2.0)",
   "types": "dist/index.d.ts",
