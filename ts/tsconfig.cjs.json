@@ -3,8 +3,8 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "module": "commonjs",
-    "target": "es2019",
-
+    "target": "es2015",
+    "lib": ["es2019", "dom"],
     "outDir": "dist/cjs/",
     "rootDir": "./src"
   }
